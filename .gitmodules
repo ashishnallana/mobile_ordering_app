@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ashishnallana/mobile_ordering_app_client.git
