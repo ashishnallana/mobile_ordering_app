@@ -15,7 +15,7 @@ This is a responsive mern mobile ordering application where users can browse thr
 
 ### Steps to Set Up the Server Locally
 
-1. Clone this repository (server)
+1. Clone this repository (server) into the server directory.
     ```bash
     $ git clone https://github.com/ashishnallana/mobile_ordering_app.git
     ```
