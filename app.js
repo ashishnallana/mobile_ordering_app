@@ -8,7 +8,10 @@ dotenv.config();
 const port = process.env.PORT || 3001;
 
 // cors setup
-const allowedOrigins = ["http://localhost:3000"];
+const allowedOrigins = [
+  "https://mobile-ordering-app.onrender.com",
+  "http://localhost:3000",
+];
 
 const corsOptions = {
   origin: (origin, callback) => {
